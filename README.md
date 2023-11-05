@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1ixYkN4kcg5Qjuk04STTorWPN4DNUU17R/view?usp=drive_link)
+![logo](https://github.com/KalraH/KalraH/blob/main/profileBanner.png)
 
 <h1 align="center">Hi 👋, I'm Hariom Kalra</h1>
 <h3 align="center">A Passionate Software Developer & An Enthusiastic Learner.</h3>
