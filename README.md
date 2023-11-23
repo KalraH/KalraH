@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalrah&label=Profile%20views&color=0e75b6&style=plastic" alt="kalrah" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://hariomkalraresume.netlify.app/](https://hariomkalraresume.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kalrah.github.io/MyResume/](https://hariomkalraresume.netlify.app/)
 
 - 📫 How to reach me **HariomKalra01@gmail.com**
 
