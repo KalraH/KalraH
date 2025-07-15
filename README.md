@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **HariomKalra01@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bxHiNCP-zk62xWMR-xgvqwxXCU0fH5Cu/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1wbBb72OsM_ARfrtPrtmG7yJf8eOKe2L7/view?usp=sharing)
 
 - ⚡ Fun fact **Technology never seems to stop Surprising me.**
 
